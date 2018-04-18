@@ -1,0 +1,14 @@
+body {
+	margin: 0 auto;
+}
+h1 {
+  text-transform: uppercase;
+  color: #660066;
+}
+
+label {
+	background-color: #660066;
+	color: #FFFFFF;
+	height: 30px;
+	width: 100px;
+}
